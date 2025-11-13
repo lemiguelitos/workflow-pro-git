@@ -1,0 +1,1 @@
+"Bug : L'application plantait au d‚marrage … cause d'une variable non initialis‚e. Solution : Initialisation correcte de la variable 'appVersion' dans app.js." 
