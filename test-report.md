@@ -1,1 +1,3 @@
-"? Test 1 : L'application d‚marre sans erreur. ? Test 2 : La nouvelle fonctionnalit‚ s'affiche correctement. ? Test 3 : La correction du bug a ‚t‚ valid‚e." 
+"Test 1 : L'application dâ€šmarre sans erreur. ?
+Test 2 : La nouvelle fonctionnalitâ€š s'affiche correctement. ? 
+Test 3 : La correction du bug a â€štâ€š validâ€še." 
